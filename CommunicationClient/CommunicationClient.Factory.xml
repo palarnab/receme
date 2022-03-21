@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CommunicationClients xmlns="ClientsNS">
+	<Client Name="GMail" FullClassName="EmailClients.GmailClient" AssemblyName="EmailClients.dll" AssemblyPath="CommunicationClients"/>
+	<Client Name="Exchange" FullClassName="EmailClients.ExchangeClient" AssemblyName="EmailClients.dll" AssemblyPath="CommunicationClients"/>
+	<Client Name="Hotmail" FullClassName="EmailClients.HotmailClient" AssemblyName="EmailClients.dll" AssemblyPath="CommunicationClients"/>
+	<Client Name="Outlook" FullClassName="EmailClients.OutlookClient" AssemblyName="EmailClients.dll" AssemblyPath="CommunicationClients"/>
+	<!--<Client Name="Yahoo" FullClassName="EmailClients.YahooClient" AssemblyName="EmailClients.dll" AssemblyPath="CommunicationClients"/>-->
+	<Client Name="Twitter" FullClassName="SocialNetworkingClients.TwitterClient" AssemblyName="SocialNetworkingClients.dll" AssemblyPath="CommunicationClients"/>
+</CommunicationClients>
+

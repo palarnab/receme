@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Sync xmlns="AirSync:" xmlns:A="EMAIL:" xmlns:B="HMMAIL:" xmlns:C="HMFOLDER:" xmlns:D="HMSYNC:">
+  <Collections>
+    <Collection>
+      <Class>Email</Class>
+      <SyncKey>0</SyncKey>
+    </Collection>
+    <Collection>
+      <Class>Folder</Class>
+      <SyncKey>0</SyncKey>
+    </Collection>
+  </Collections>
+</Sync>

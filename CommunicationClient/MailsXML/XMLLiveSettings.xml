@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Settings xmlns="HMSETTINGS:">
+  <ServiceSettings>
+    <SafetySchemaVersion>1</SafetySchemaVersion>
+    <SafetyLevelRules>
+      <GetVersion/>
+    </SafetyLevelRules>
+    <SafetyActions>
+      <GetVersion/>
+    </SafetyActions>
+    <Properties>
+      <Get/>
+    </Properties>
+    <Lists>
+      <Get/>
+    </Lists>
+  </ServiceSettings>
+  <AccountSettings>
+    <Get>
+      <Properties/>
+    </Get>
+  </AccountSettings>
+</Settings>
